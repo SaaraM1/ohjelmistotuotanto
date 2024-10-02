@@ -1,17 +1,10 @@
-# ohjelmistotuotanto
-
----
-layout: page
-title: Ohjelmistojen vaatimusmäärittely, tuotteen ja sprintin hallinta
-title_long: 'Ohjelmistojen vaatimusmäärittely, tuotteen ja sprintin hallinta'
-inheader: yes
-permalink: /ohjelmistotuotanto/
----
+# Ohjelmistojen vaatimusmäärittely, tuotteen ja sprintin hallinta
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
   <img alt="Creative Commons -lisenssi" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"
   />
 </a>
+
 
 Tämä README-tiedosto on koottu Helsingin yliopiston materiaalista. Aiheena on ohjelmistojen vaatimusmäärittely, erityisesti ketterien menetelmien näkökulma vaatimusmäärittelyyn. Käsittelemme myös hieman tuotteen hallintaa sekä koko projektin tasolla että sprintin aikana. Mikäli haluat tutustua koko materiaaliin, se löytyy osoitteesta: https://ohjelmistotuotanto-hy.github.io/osa2/
 
